@@ -1,8 +1,3 @@
-![Pipeline Diagram](images/pipeline_diagram.png)
-
-
-
-
 End-to-End Data Engineering Pipeline with Azure
 Overview
 This project demonstrates the design, development, and deployment of a robust data engineering pipeline using Azure cloud services. It integrates data ingestion, transformation, storage, and analytics to provide a seamless solution for processing large datasets.
